@@ -1,0 +1,19 @@
+{
+  "name": "Pantry Snap",
+  "short_name": "Pantry Snap",
+  "description": "Snap groceries, track your pantry and get recipe ideas with Claude.",
+  "id": "/",
+  "start_url": "/#scan",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7f5",
+  "theme_color": "#2f8f4e",
+  "categories": ["food", "lifestyle", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

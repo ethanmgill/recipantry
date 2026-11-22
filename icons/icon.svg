@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Pantry Snap icon: a jar with a camera lens on its label, on a green background. -->
+  <rect width="512" height="512" rx="112" fill="#2f8f4e"/>
+  <rect x="176" y="116" width="160" height="48" rx="14" fill="#ffffff"/>
+  <rect x="148" y="172" width="216" height="236" rx="44" fill="#ffffff"/>
+  <rect x="148" y="244" width="216" height="92" fill="#e2f3e7"/>
+  <circle cx="256" cy="290" r="34" fill="#2f8f4e"/>
+  <circle cx="256" cy="290" r="15" fill="#e2f3e7"/>
+</svg>
